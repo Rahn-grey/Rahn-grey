@@ -24,7 +24,10 @@ from network import huawei, cisco
 from languages​ import chinses, jp
 
 this = {
-    "Running" : ["DS", "English", "CN", "CO", "OS"],
+    "Running" : {
+        "Project" : ["ctfd_whale_new"],
+        "Study" : ["RUST", "English", "DC", "CN", "OS", "CO"]
+        },
 }
 ```
 
