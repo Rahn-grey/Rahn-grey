@@ -21,6 +21,7 @@ from ctf import pwn, misc
 from code import cpp, c, python, rust
 from os import freebsd, linux, windows
 from network import huawei, cisco
+from languages​ import chinses, jp
 
 this = {
     "Running" : ["DS", "English", "CN", "CO", "OS"],
