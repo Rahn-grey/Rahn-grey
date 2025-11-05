@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **Rahn-grey/Rahn-grey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## history commit
 ![3D](profile-3d-contrib/profile-night-green.svg)
