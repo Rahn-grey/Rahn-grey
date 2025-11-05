@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> about me...  
 ```python
 from ctf import pwn, misc
-from code import cpp, c, python, rust
-from os import freebsd, linux, windows
+from code import cpp, c, python, java
+from os import linux, ....bsd?
 from network import huawei, cisco
 from languages​ import chinses, jp
 
