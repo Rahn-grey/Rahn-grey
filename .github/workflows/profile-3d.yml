@@ -20,8 +20,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git pull origin ${{ github.ref_name }} --rebase
-          
           git add -A .
-          git commit -m "generated"
-          git push
+          git commit -m "chore: update 3D contribution graph" || echo "No changes to commit"
+          git push --force-with-lease origin main
